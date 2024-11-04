@@ -4,3 +4,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+Flask
+joblib
+flask-cors
+openpyxl
