@@ -7,4 +7,3 @@ scikit-learn
 Flask
 joblib
 flask-cors
-openpyxl
